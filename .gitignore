@@ -1,4 +1,5 @@
 *.iml
+*.apk
 .gradle
 /local.properties
 /.idea/workspace.xml
@@ -7,3 +8,12 @@
 /build
 /captures
 .externalNativeBuild
+/.idea/
+/valley/DValley-release-1.0.apk
+/gradlew
+/gradlew.bat
+/gradle/wrapper/gradle-wrapper.properties
+/gradle/
+*/build
+/RLibrary2
+/RLibrary
