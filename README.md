@@ -1,7 +1,9 @@
 # RQrCodeDemo
 个人认为开源二维码扫描封装库中, 最快的.    请随手点个Star. 谢谢!
 
-**推荐使用 https://github.com/XieZhiFa/ZxingZbar**
+**本库基于 https://github.com/XieZhiFa/ZxingZbar 修改而来 您也可以直接使用原库**
+
+# 很多同学不知道 `zxing` 和 `zbar` 的区别 这里总结一下:
 - zbar 快, 支持的格式少.
 - zxing 慢, 支持的格式多.
 
