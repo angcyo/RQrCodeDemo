@@ -1,3 +1,5 @@
+> 已迁移到: https://github.com/angcyo/QrCodeZxingZbar
+
 # RQrCodeDemo
 个人认为开源二维码扫描封装库中, 最快的.    请随手点个Star. 谢谢!
 
